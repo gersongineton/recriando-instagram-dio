@@ -110,7 +110,7 @@ body {
 
 @media (max-width: 1024px) {
     .instagram-wrapper {
-        width: 90%;
+        width: 95%;
     }    
 }
 @media (max-width: 650px) {
@@ -118,7 +118,7 @@ body {
         background-color: #FFF;
     }
     .instagram-wrapper {
-        width: 90%;
+        width: 95%;
     }    
     .instagram-phone {
         display: none;
